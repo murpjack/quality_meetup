@@ -1,1 +1,1 @@
-# quality_meetup
+# quality meetup
